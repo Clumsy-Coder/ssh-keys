@@ -1,0 +1,9 @@
+# ignore everything
+*
+
+# only allow certain files to be committed
+!.gitignore
+!README.md
+!*.sh
+!*.encrypted
+!sha256sum.txt
